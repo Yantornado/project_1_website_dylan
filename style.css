@@ -1,11 +1,25 @@
+body {
+  background-image:url(http://cdn.mos.cms.futurecdn.net/exY7h2Z2BUYML95suQv4MM.jpg);
+}
 h1 {
   color : red;
-  display : inline-block;
+  display : block;
   background-color : black;
   padding : 20px;
   border : solid blue 3.5px;
-  font-family
+  font-family;
   font-size : 50px;
-  margin;
-  text-align : center;
+  margin : 20px;
+  text-align :center;
+}
+h2{
+  color: blue;
+  display :inline;
+  background-color: darkorange;
+  padding : 10px;
+  border : solid green;
+  width : 100;
+}
+p{
+  color : white
 }
