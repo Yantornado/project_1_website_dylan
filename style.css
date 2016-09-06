@@ -2,7 +2,7 @@ body {
   background-image:url(http://cdn.mos.cms.futurecdn.net/exY7h2Z2BUYML95suQv4MM.jpg);
 }
 h1 {
-  color : red;
+  color : aqua;
   display : block;
   background-color : black;
   padding : 20px;
@@ -13,18 +13,41 @@ h1 {
   text-align :center;
 }
 h2{
-  color: black;
+  color: cadetblue;
   display :inline;
-  background-color: hotpink;
+  background-color: black;
   padding : 10px;
-  border : solid red;
-  margin: 20px
+  border : solid blue;
+  margin-left: 350px;
   width : 100px;
+  text-align :center;
+
 }
-p{
+.para{
   color : white;
   background-color : black;
   border: solid lightblue;
+  margin-left: `0px;
 }
-li{
-  color: white;}
+.li{
+  color: white;
+  margin-left: 130px
+}
+h3{
+  color : red;
+  text-align :center;
+}
+.steamfacts{
+  color : white;
+  background-color : black;
+  border : solid lightblue;
+  width : 50%;
+  margin-left: 150px;
+}
+p{
+  color : white;
+  text-align: center;
+}
+body{
+  max-width : 800;
+}
