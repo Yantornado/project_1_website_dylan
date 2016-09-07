@@ -18,16 +18,15 @@ h2{
   background-color: black;
   padding : 10px;
   border : solid blue;
-  margin-left: 350px;
+  margin-left: 625px;
   width : 100px;
-  text-align :center;
 
 }
 .para{
   color : white;
   background-color : black;
   border: solid lightblue;
-  margin-left: `0px;
+  margin-left: 0px;
 }
 .li{
   color: white;
@@ -42,7 +41,7 @@ h3{
   background-color : black;
   border : solid lightblue;
   width : 50%;
-  margin-left: 150px;
+  margin-left: 300px;
 }
 p{
   color : white;
