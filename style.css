@@ -20,6 +20,7 @@ a{
   border : solid blue;
   width : 100px;
   text-align: center;
+
 }
 .para{
   color : white;
@@ -46,7 +47,7 @@ p{
   color : white;
   text-align: center;
   background-color: black;
-  border: solid lightblue;
+  border-left:20px solid black;
 }
 body{
   max-width : 800;
