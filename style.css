@@ -1,3 +1,4 @@
+.
 body {
   background-image:url(http://cdn.mos.cms.futurecdn.net/exY7h2Z2BUYML95suQv4MM.jpg);
 }
@@ -47,7 +48,8 @@ p{
   color : white;
   text-align: center;
   background-color: black;
-  border-left:20px solid black;
+  border: solid black;
+  display: inline-block;
 }
 body{
   max-width : 800;
