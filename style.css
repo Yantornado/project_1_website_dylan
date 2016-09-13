@@ -1,6 +1,8 @@
-
-body {
+.Tophtml{
   background-image:url(http://cdn.mos.cms.futurecdn.net/exY7h2Z2BUYML95suQv4MM.jpg);
+}
+body {
+  background-image:url(http://cdn.mos.cms.futurecdn.net/668f55db846ed80689f710f7c0360524.jpg);
 }
 h1 {
   color : aqua;
@@ -36,6 +38,7 @@ a{
 h3{
   color : red;
   text-align :center;
+  background: black;
 }
 .steamfacts{
   color : white;
@@ -52,6 +55,7 @@ p{
   display: inline-block;
 }
 body{
+  text-align: center;
   max-width : 800;
 }
 img{
@@ -66,4 +70,8 @@ img{
 }
 .Pro{
 display: inline;
+}
+.Img{
+  margin-left: 100px;
+  height: 250px
 }
