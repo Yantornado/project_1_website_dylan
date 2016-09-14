@@ -65,12 +65,14 @@ img{
   background-color: pink;
 }
 .Pro{
+  background-color: black;
+  color: blue;
   text-align: center;
 display: inline;
 }
 .Img{
   text-align: center;
-  margin-left: 100px;
+  margin-left:27%;
   height: 250px
 }
 .tf2{
@@ -83,4 +85,8 @@ display: inline;
   text-align: center;
   display: block;
   background-color: black
+}
+nav{
+  color: blue;
+  text-align: center;
 }
