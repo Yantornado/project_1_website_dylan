@@ -72,7 +72,7 @@ display: inline;
 }
 .Img{
   text-align: center;
-  margin-left:27%;
+  margin-left: 25%;
   height: 250px
 }
 .tf2{
@@ -89,4 +89,42 @@ display: inline;
 nav{
   color: blue;
   text-align: center;
+}
+.activision{
+  display: inline;
+  margin-left: 40%;
+  color: red;
+  background-color: hotpink;
+  text-align: center;
+  border: solid red;
+}
+.Fnatic{
+  margin-left: 28%;
+}
+.Fanatic{
+  background: hotpink;
+  color: red;
+  border: solid red;
+  margin-left: 40%;
+}
+.Liquid{
+  margin-left: 25%;
+  background: white;
+  display: block;
+  text-align: center;
+}
+.TLiquid{
+  display: inline;
+  margin-left: 40%;
+  background: hotpink;
+  color: red;
+  border: solid red;
+}
+h2{
+  margin-right: 25%;
+  text-align: center;
+  margin-left: 25%;
+  color: blue;
+  background: black;
+  border: solid blue;
 }
